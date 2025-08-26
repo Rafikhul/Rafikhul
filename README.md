@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi Everyone 👋
 
 
-**Rafikhul/Rafikhul** is a Back-End Developer
+**Rafikhul/Khulkhul** is a Back-End Developer
 
   🔭 I’m a Student form Andalas University <img src="https://github.com/user-attachments/assets/97ea7747-c1cb-418a-b2f1-b68f74ec6f2d" width="25">
 
